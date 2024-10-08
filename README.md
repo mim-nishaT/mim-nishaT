@@ -1,3 +1,3 @@
 Assalamualikum ✨
 ,
-I'm Nishat Afrin Mim. Now, I'm learning R programming and searching for better learning from this platform
+I'm Nishat Afrin Mim. I'm working as a Team Lead in the Geospatial Health Research Group (GHRG) at CHIRAL Bangladesh. 
