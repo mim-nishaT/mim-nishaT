@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishat Afrin Mim</h1>
-<h3 align="center">A passionate for Health Informatics & AI for Bioinformatics and Environmental study</h3>
+<h3 align="center">A passionate for Health Informatics & AI for Bioinformatics and Environmental studies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mim-nishat&label=Profile%20views&color=0e75b6&style=flat" alt="mim-nishat" /> </p>
 
