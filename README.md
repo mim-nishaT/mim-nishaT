@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mimnishat285@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mimna/](https://www.linkedin.com/in/mimna/)
+- 📄 Know about my experiences [https://www.researchgate.net/profile/Nishat-Mim?ev=hdr_xprf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
